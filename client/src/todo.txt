@@ -1,0 +1,30 @@
+KEY
+B = Ben
+S = Scott
+R = Rimon
+X = Completed
+
+[X] - Home Page
+  [X] - Header
+  [X] - Login Panel
+  [X] - Post List
+  [X] - Submit a link
+[B] - Signup Page
+[X] - Not Found Page
+[X] - Individual Post Page
+  [X] - Post Itself (Image, Video, Etc.)
+  [X] - Upvotes 
+  [X] - Comments Section
+  [S] - Create Comment
+[X] - Topic Page (subreddit)
+  [X] - Post List
+  [X] - Submit links
+[] - User Page
+  [] - profile info
+  [] - post lists
+  [] - comment lists
+[] - Create Post
+  [] - Post Title
+  [] - Post Subreddit
+  [] - Post Image
+  [] - Post Body
